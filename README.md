@@ -1,1 +1,1 @@
-# Financial-Analyst
+# Analyst
